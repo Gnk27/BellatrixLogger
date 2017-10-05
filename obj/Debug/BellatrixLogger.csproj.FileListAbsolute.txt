@@ -1,0 +1,5 @@
+C:\Users\Gian\documents\visual studio 2013\Projects\BellatrixLogger\BellatrixLogger\bin\Debug\BellatrixLogger.exe.config
+C:\Users\Gian\documents\visual studio 2013\Projects\BellatrixLogger\BellatrixLogger\bin\Debug\BellatrixLogger.exe
+C:\Users\Gian\documents\visual studio 2013\Projects\BellatrixLogger\BellatrixLogger\bin\Debug\BellatrixLogger.pdb
+C:\Users\Gian\documents\visual studio 2013\Projects\BellatrixLogger\BellatrixLogger\obj\Debug\BellatrixLogger.exe
+C:\Users\Gian\documents\visual studio 2013\Projects\BellatrixLogger\BellatrixLogger\obj\Debug\BellatrixLogger.pdb
